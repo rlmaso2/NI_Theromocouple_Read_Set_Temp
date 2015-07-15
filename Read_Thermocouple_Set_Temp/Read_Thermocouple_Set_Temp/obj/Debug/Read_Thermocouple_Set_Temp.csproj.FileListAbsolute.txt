@@ -1,0 +1,9 @@
+C:\Users\Ricky Mason\Documents\Bode\Read_Thermocouple_Set_Temp\Read_Thermocouple_Set_Temp\bin\Debug\Read_Thermocouple_Set_Temp.exe.config
+C:\Users\Ricky Mason\Documents\Bode\Read_Thermocouple_Set_Temp\Read_Thermocouple_Set_Temp\bin\Debug\Read_Thermocouple_Set_Temp.exe
+C:\Users\Ricky Mason\Documents\Bode\Read_Thermocouple_Set_Temp\Read_Thermocouple_Set_Temp\bin\Debug\Read_Thermocouple_Set_Temp.pdb
+C:\Users\Ricky Mason\Documents\Bode\Read_Thermocouple_Set_Temp\Read_Thermocouple_Set_Temp\obj\Debug\Read_Thermocouple_Set_Temp.csprojResolveAssemblyReference.cache
+C:\Users\Ricky Mason\Documents\Bode\Read_Thermocouple_Set_Temp\Read_Thermocouple_Set_Temp\obj\Debug\Read_Thermocouple_Set_Temp.Form1.resources
+C:\Users\Ricky Mason\Documents\Bode\Read_Thermocouple_Set_Temp\Read_Thermocouple_Set_Temp\obj\Debug\Read_Thermocouple_Set_Temp.Properties.Resources.resources
+C:\Users\Ricky Mason\Documents\Bode\Read_Thermocouple_Set_Temp\Read_Thermocouple_Set_Temp\obj\Debug\Read_Thermocouple_Set_Temp.csproj.GenerateResource.Cache
+C:\Users\Ricky Mason\Documents\Bode\Read_Thermocouple_Set_Temp\Read_Thermocouple_Set_Temp\obj\Debug\Read_Thermocouple_Set_Temp.exe
+C:\Users\Ricky Mason\Documents\Bode\Read_Thermocouple_Set_Temp\Read_Thermocouple_Set_Temp\obj\Debug\Read_Thermocouple_Set_Temp.pdb
